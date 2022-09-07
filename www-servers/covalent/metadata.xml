@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>wjcunningham7@gmail.com</email>
+		<name>Covalent</name>
+	</maintainer>
+	<longdescription>
+		Covalent is an open-source workflow orchestration platform for quantum
+		and high performance computing. Covalent uses a modular architecture
+		with a variety of plugins, allowing users to rapidly prototype and
+		deploy scientific workflows locally, on clusters, on the cloud, and
+		more.
+	</longdescription>
+	<use>
+		<flag name="aws">Install AWS plugins and enable S3 file transfer support.</flag>
+	</use>
+</pkgmetadata>

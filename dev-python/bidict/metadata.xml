@@ -1,0 +1,10 @@
+<pkgmetadata>
+  <upstream>
+    <remote-id type="pypi">bidict</remote-id>
+    <remote-id type="github">jab/bidict</remote-id>
+  </upstream>
+  <maintainer type="person">
+    <email>1over137@anche.no</email>
+    <name>Shaoyu Tseng</name>
+  </maintainer>
+</pkgmetadata>
